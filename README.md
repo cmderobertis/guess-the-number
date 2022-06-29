@@ -2,8 +2,6 @@
 
 A number-guessing game for the terminal written in Python
 
----
-
 ## How to play
 
 - Enter an integer within the range specified
